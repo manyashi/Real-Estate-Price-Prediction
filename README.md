@@ -16,12 +16,13 @@ Handle HTTP requests to predict home prices based on user inputs.
 Build a user interface using HTML, CSS, and JavaScript.
 Collect input from the user (square footage, number of bedrooms, etc.).
 Send the input data to the Flask server and display the predicted price.
+
 Technologies Used-
-Python
-Pandas and Numpy for data manipulation
-Matplotlib for data visualization
-Scikit-learn for model building
-Flask for backend server
-HTML/CSS/JavaScript for frontend
-Jupyter Notebook, Visual Studio Code, and PyCharm as IDEs
-Project Struc
+1) Python
+2) Pandas and Numpy for data manipulation
+3) Matplotlib for data visualization
+4) Scikit-learn for model building
+5) Flask for backend server
+6) HTML/CSS/JavaScript for frontend
+7) Jupyter Notebook, Visual Studio Code, and PyCharm as IDEs
+
