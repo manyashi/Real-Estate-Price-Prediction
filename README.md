@@ -1,3 +1,5 @@
+**Real-Estate-Price-Predictor**
+
 This project demonstrates the process of building a real estate price prediction website. The project involves creating a machine learning model using scikit-learn, setting up a Flask server to handle HTTP requests, and developing a frontend using HTML, CSS, and JavaScript.
 
 The objective is to build a web application to predict real estate prices based on various input features such as square footage, number of bedrooms, and location.
